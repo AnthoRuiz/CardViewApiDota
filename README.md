@@ -6,5 +6,5 @@ Example CardView using Data from DotaApiRest
 - Dependency manager [CocoaPods](https://cocoapods.org/)
 - Download and load image using [SDWebImage](https://github.com/rs/SDWebImage)
 
-## Author
+# Author
 - Anthony Ruiz 
